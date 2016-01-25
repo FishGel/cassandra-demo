@@ -5,3 +5,6 @@
 
 * **安装教程**
 	* [Cassandra安装配置](http://yikebocai.com/2014/06/cassandra-introduce/)
+
+* **CQL教程**
+	* [CQL教程](http://docs.datastax.com/en/latest-cql/cql/cql_using/useCreateTable.html)
